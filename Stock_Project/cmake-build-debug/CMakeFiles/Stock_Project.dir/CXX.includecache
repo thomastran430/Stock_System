@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Thomas Tran/CLionProjects/Stock_Project/Account.cpp
+Account.h
+C:/Users/Thomas Tran/CLionProjects/Stock_Project/Account.h
+
+C:/Users/Thomas Tran/CLionProjects/Stock_Project/Account.h
+iostream
+-
+iomanip
+-
+fstream
+-
+vector
+-
+string
+-
+
+C:/Users/Thomas Tran/CLionProjects/Stock_Project/BankAccount.cpp
+BankAccount.h
+C:/Users/Thomas Tran/CLionProjects/Stock_Project/BankAccount.h
+
+C:/Users/Thomas Tran/CLionProjects/Stock_Project/BankAccount.h
+StockAccount.h
+C:/Users/Thomas Tran/CLionProjects/Stock_Project/StockAccount.h
+
+C:/Users/Thomas Tran/CLionProjects/Stock_Project/StockAccount.cpp
+StockAccount.h
+C:/Users/Thomas Tran/CLionProjects/Stock_Project/StockAccount.h
+
+C:/Users/Thomas Tran/CLionProjects/Stock_Project/StockAccount.h
+Account.h
+C:/Users/Thomas Tran/CLionProjects/Stock_Project/Account.h
+
+C:/Users/Thomas Tran/CLionProjects/Stock_Project/main.cpp
+BankAccount.h
+C:/Users/Thomas Tran/CLionProjects/Stock_Project/BankAccount.h
+
